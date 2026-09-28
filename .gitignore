@@ -1,0 +1,22 @@
+# ====================================================================
+# Altium Designer Git Ignore
+# ====================================================================
+
+# History & Autosave backups
+History/
+__Previews/
+
+# Altium temporary, lock and preview files
+*.SchDocPreview
+*.PcbDocPreview
+*.PcbDoc.htm
+*.Dat
+*.TLOG
+*.LOG
+debug.log
+.~lock.*
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
